@@ -6,6 +6,15 @@ TagManager:
   tags:
   - Enemy
   - Ally
+  - Virus
+  - AllySpawnPoint
+  - BCell
+  - BCellTarget
+  - DeadEnemy
+  - DenditricTarget
+  - EnemySpawnPoint
+  - Touch1
+  - Touch2
   layers:
   - Default
   - TransparentFX
@@ -13,11 +22,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ally
+  - AllyBase
+  - BCell
+  - Enemy
+  - touchScreen
   - 
   - 
   - 
@@ -48,4 +57,7 @@ TagManager:
     locked: 0
   - name: Game
     uniqueID: 960216691
+    locked: 0
+  - name: touch
+    uniqueID: 806496879
     locked: 0

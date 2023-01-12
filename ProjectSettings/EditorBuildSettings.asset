@@ -12,11 +12,20 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
   - enabled: 1
-    path: Assets/Scenes/Tutorial.unity
+    path: Assets/Scenes/HumanBody.unity
     guid: c6eef0563cf936441813b3fb506aa10f
   - enabled: 1
     path: Assets/Scenes/LimbZoom.unity
     guid: 330934c104ff57c4cb040ff251f22aaf
+  - enabled: 1
+    path: Assets/Scenes/LimbZoom2.unity
+    guid: 392e787c37385b9429db04a8408121e0
+  - enabled: 1
+    path: Assets/Scenes/LimbZoom3.unity
+    guid: ed325729f3a741f4591bc7163fe3a3ba
+  - enabled: 1
+    path: Assets/Scenes/LimbZoom4.unity
+    guid: cf70038f0ecc6cc419e2b97f99d162bb
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 3fa6f6f7b690bd84981105e681238bbf, type: 2}
     com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: f64183088ed584842a49907605078a5b, type: 2}
